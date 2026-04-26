@@ -37,10 +37,10 @@ a text file along with the current date and time.
 
 ## Video Explanation
 
-https://your-video-link-here
+
 
 ------------------------------------------------------------------------
 
 ## Author
 
--   Name: Your Name
+-   Dhruvi Vekariya
